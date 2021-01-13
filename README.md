@@ -1,0 +1,1 @@
+The contents of this project are Jupyter notebooks and data files that support University of Edinburgh UG course EASC10127 (Earth's atmospheric composition). The difference between this course and EASC10102 is course delivery due to online learning.
